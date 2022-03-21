@@ -1,0 +1,510 @@
+# depslib dependency file v1.0
+1512629279 source:c:\users\bouaouina\desktop\su_do_ku - copie\choix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Sudoku.h"
+	"Humain.h"
+	"Tests.h"
+	"Machine.h"
+
+1512588415 c:\users\bouaouina\desktop\su_do_ku - copie\choix.h
+	"Sudoku.h"
+
+1512628756 c:\users\bouaouina\desktop\su_do_ku - copie\sudoku.h
+
+1512588416 c:\users\bouaouina\desktop\su_do_ku - copie\humain.h
+	"Sudoku.h"
+
+1512628550 c:\users\bouaouina\desktop\su_do_ku - copie\tests.h
+	"Sudoku.h"
+
+1512628678 c:\users\bouaouina\desktop\su_do_ku - copie\machine.h
+	"Sudoku.h"
+
+1512628870 source:c:\users\bouaouina\desktop\su_do_ku - copie\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1512628903 source:c:\users\bouaouina\desktop\su_do_ku - copie\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1512627799 source:c:\users\bouaouina\desktop\su_do_ku - copie\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Sudoku.h"
+	"Tests.h"
+
+1512628454 source:c:\users\bouaouina\desktop\su_do_ku - copie\tests.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1512629302 source:c:\users\bouaouina\desktop\su_do_ku - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1512632472 source:c:\users\p09s108srit\desktop\su_do_ku - copie\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1512592018 c:\users\p09s108srit\desktop\su_do_ku - copie\humain.h
+	"Sudoku.h"
+
+1512632358 c:\users\p09s108srit\desktop\su_do_ku - copie\sudoku.h
+
+1512632152 c:\users\p09s108srit\desktop\su_do_ku - copie\tests.h
+	"Sudoku.h"
+
+1512632389 source:c:\users\p09s108srit\desktop\su_do_ku - copie\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1512632280 c:\users\p09s108srit\desktop\su_do_ku - copie\machine.h
+	"Sudoku.h"
+
+1512632904 source:c:\users\p09s108srit\desktop\su_do_ku - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1512592016 c:\users\p09s108srit\desktop\su_do_ku - copie\choix.h
+	"Sudoku.h"
+
+1512631400 source:c:\users\p09s108srit\desktop\su_do_ku - copie\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Sudoku.h"
+	"Tests.h"
+
+1512632056 source:c:\users\p09s108srit\desktop\su_do_ku - copie\tests.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1512638915 source:c:\users\p09s108srit\desktop\su_do_ku\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1512592018 c:\users\p09s108srit\desktop\su_do_ku\humain.h
+	"Sudoku.h"
+
+1512637909 c:\users\p09s108srit\desktop\su_do_ku\sudoku.h
+
+1512632152 c:\users\p09s108srit\desktop\su_do_ku\tests.h
+	"Sudoku.h"
+
+1512640748 source:c:\users\p09s108srit\desktop\su_do_ku\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1512632280 c:\users\p09s108srit\desktop\su_do_ku\machine.h
+	"Sudoku.h"
+
+1512641341 source:c:\users\p09s108srit\desktop\su_do_ku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1512639432 c:\users\p09s108srit\desktop\su_do_ku\choix.h
+	"Sudoku.h"
+
+1512642902 source:c:\users\p09s108srit\desktop\su_do_ku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Sudoku.h"
+	"Tests.h"
+	"Humain.h"
+
+1512632056 source:c:\users\p09s108srit\desktop\su_do_ku\tests.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1512642913 source:c:\users\p09s108srit\desktop\su_do_ku\choix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Sudoku.h"
+	"Humain.h"
+	"Tests.h"
+	"Machine.h"
+
+1514628249 source:c:\users\bouaouina\desktop\su_do_ku\choix.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Sudoku.h"
+	"Humain.h"
+	"Tests.h"
+	"Machine.h"
+
+1514628214 c:\users\bouaouina\desktop\su_do_ku\choix.h
+	"Sudoku.h"
+
+1514361250 c:\users\bouaouina\desktop\su_do_ku\sudoku.h
+
+1512892150 c:\users\bouaouina\desktop\su_do_ku\humain.h
+	"Sudoku.h"
+
+1514630622 c:\users\bouaouina\desktop\su_do_ku\tests.h
+	"Sudoku.h"
+
+1513965481 c:\users\bouaouina\desktop\su_do_ku\machine.h
+	"Sudoku.h"
+
+1514361479 source:c:\users\bouaouina\desktop\su_do_ku\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1514279406 source:c:\users\bouaouina\desktop\su_do_ku\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1514628249 source:c:\users\bouaouina\desktop\su_do_ku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1514361247 source:c:\users\bouaouina\desktop\su_do_ku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Sudoku.h"
+	"Tests.h"
+	"Humain.h"
+
+1514630661 source:c:\users\bouaouina\desktop\su_do_ku\tests.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1513247130 source:c:\users\p06s108srit\desktop\su_do_ku\choix.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Sudoku.h"
+	"Humain.h"
+	"Tests.h"
+	"Machine.h"
+
+1512679738 c:\users\p06s108srit\desktop\su_do_ku\choix.h
+	"Sudoku.h"
+
+1513235364 c:\users\p06s108srit\desktop\su_do_ku\sudoku.h
+
+1512895750 c:\users\p06s108srit\desktop\su_do_ku\humain.h
+	"Sudoku.h"
+
+1513246357 c:\users\p06s108srit\desktop\su_do_ku\tests.h
+	"Sudoku.h"
+
+1513175578 c:\users\p06s108srit\desktop\su_do_ku\machine.h
+	"Sudoku.h"
+
+1513235784 source:c:\users\p06s108srit\desktop\su_do_ku\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1513247366 source:c:\users\p06s108srit\desktop\su_do_ku\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1513235150 source:c:\users\p06s108srit\desktop\su_do_ku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1513245630 source:c:\users\p06s108srit\desktop\su_do_ku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Sudoku.h"
+	"Tests.h"
+	"Humain.h"
+
+1513246465 source:c:\users\p06s108srit\desktop\su_do_ku\tests.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1513966823 source:c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\choix.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Sudoku.h"
+	"Humain.h"
+	"Tests.h"
+	"Machine.h"
+
+1512676138 c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\choix.h
+	"Sudoku.h"
+
+1513966260 c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\sudoku.h
+
+1512892150 c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\humain.h
+	"Sudoku.h"
+
+1513242758 c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\tests.h
+	"Sudoku.h"
+
+1513965481 c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\machine.h
+	"Sudoku.h"
+
+1513232184 source:c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1513965481 source:c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1513231550 source:c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1513966260 source:c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Sudoku.h"
+	"Tests.h"
+	"Humain.h"
+
+1513242866 source:c:\users\bouaouina\desktop\nouveau dossier\su_do_ku\tests.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1514995873 source:c:\users\bouaouina\documents\sudoku\choix.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Sudoku.h"
+	"Humain.h"
+	"Tests.h"
+	"Machine.h"
+
+1514628214 c:\users\bouaouina\documents\sudoku\choix.h
+	"Sudoku.h"
+
+1514361250 c:\users\bouaouina\documents\sudoku\sudoku.h
+
+1512892150 c:\users\bouaouina\documents\sudoku\humain.h
+	"Sudoku.h"
+
+1514918309 c:\users\bouaouina\documents\sudoku\tests.h
+	"Sudoku.h"
+
+1513965481 c:\users\bouaouina\documents\sudoku\machine.h
+	"Sudoku.h"
+
+1514917040 source:c:\users\bouaouina\documents\sudoku\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1514961721 source:c:\users\bouaouina\documents\sudoku\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1514917040 source:c:\users\bouaouina\documents\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1514916864 source:c:\users\bouaouina\documents\sudoku\sudoku.c
+	<stdio.h>
+	<string.h>
+	"Sudoku.h"
+	"Tests.h"
+	"Humain.h"
+
+1514961233 source:c:\users\bouaouina\documents\sudoku\tests.c
+	<stdio.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1515049817 source:c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\tests.c
+	<stdio.h>
+	"Tests.h"
+	"Sudoku.h"
+
+1515044599 c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\tests.h
+	"Sudoku.h"
+
+1514361250 c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\sudoku.h
+
+1515054209 source:c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\choix.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Choix.h"
+	"Sudoku.h"
+	"Humain.h"
+	"Tests.h"
+	"Machine.h"
+
+1514628214 c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\choix.h
+	"Sudoku.h"
+
+1512892150 c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\humain.h
+	"Sudoku.h"
+
+1513965481 c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\machine.h
+	"Sudoku.h"
+
+1515045016 source:c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\humain.c
+	<stdio.h>
+	<stdlib.h>
+	"Humain.h"
+	"Sudoku.h"
+	"Tests.h"
+
+1515004109 source:c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\machine.c
+	<stdio.h>
+	<stdlib.h>
+	"Tests.h"
+	"Machine.h"
+	"Sudoku.h"
+
+1514996910 source:c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Choix.h"
+	"Humain.h"
+	"Machine.h"
+	"Tests.h"
+	"Sudoku.h"
+
+1515054315 source:c:\users\bouaouina\desktop\mini_projet_c_(sudoku)\sudoku\sudoku.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Sudoku.h"
+	"Tests.h"
+	"Humain.h"
+
